@@ -1,0 +1,14 @@
+
+core.js
+----------------
+lib/mediator.js
+util/a.js
+lib/ajax.js
+lib/dom.js
+util/b.js
+
+app.js
+----------------
+app.js
+lib/notneeded.js
+app/module.js

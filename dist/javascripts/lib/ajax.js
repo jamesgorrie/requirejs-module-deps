@@ -1,0 +1,1 @@
+define([], function() { var ajax = 1; });

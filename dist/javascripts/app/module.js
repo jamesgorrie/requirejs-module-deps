@@ -1,0 +1,1 @@
+define(['lib/ajax', 'lib/dom', 'lib/notneeded'], function() {});
